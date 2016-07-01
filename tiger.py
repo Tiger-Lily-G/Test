@@ -26,3 +26,6 @@ def test_animal_roars():
     animal1.name = 'bob'
 
     assert animal1.roar() == 'RAAAAAWWWR'
+
+
+
