@@ -4,5 +4,5 @@
 
 This repository contains the followig demos:
   * Python classes :monkey:
-  * Subsition Cipher
+  * Substitution Cipher
 
